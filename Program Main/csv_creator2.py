@@ -11,7 +11,6 @@ import pandas as pd
 import eikon as ek
 from datetime import datetime
 # get access to eikon API through the app key
-ek.set_app_key('1546eef126d74ad6a1c4f28ecf5900b6085bb788')
 import time
 import csv
 
